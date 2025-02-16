@@ -36,7 +36,7 @@ Clone the repository.
 
 Install dependencies using pip install -r requirements.txt.
 
-Run the Jupyter Notebook to reproduce the analysis.
+Run the Jupyter Notebook 'Text Analysis - 10K - Final Version (1).ipynb' to reproduce the analysis.
 
 🎯 Future Directions
 
