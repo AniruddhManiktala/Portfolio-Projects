@@ -42,11 +42,7 @@ Tableau for data visualization
 
 Getting Started
 
-Clone the repository.
-
-Install the required libraries using pip install -r requirements.txt.
-
-Run the Jupyter notebooks in the notebooks/ directory for step-by-step analysis.
+Access the presentation PDF file by opening the 'BAMA 517. Data Driven Marketing - Final Project - Rev.02.pdf' document.
 
 Future Improvements
 
