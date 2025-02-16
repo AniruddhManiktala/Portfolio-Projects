@@ -42,7 +42,7 @@ Clone the repository.
 
 Install the required libraries using pip install -r requirements.txt.
 
-Run the Jupyter notebooks to replicate the analysis and generate predictions.
+Run the Jupyter notebook 'ML_Airbnb.ipynb' to replicate the analysis and generate predictions. The predictions for my analysis may be found by accessing the 'ML_Airbnb_Predictions.xlsx' document.
 
 Future Improvements
 
