@@ -3,6 +3,12 @@
 ## **Project Overview**
 This project explores the impact of Twitter discussions on stock mentions using a structured **PostgreSQL** database hosted on **AWS RDS**. By analyzing cashtags (e.g., `$AAPL`, `$TSLA`), we extract insights into market sentiment and stock popularity. The project leverages **data warehousing, materialized views, and indexing** to optimize query performance for financial analytics.
 
+## **How to Access**
+To access the project code and analysis:
+1. Navigate to the project repository on GitHub.
+2. Click on the **`Tweet_Analysis_Code`** file.
+3. This file contains the **Jupyter Notebook** used for data analysis and visualization.
+
 ## **Objectives**
 - ✅ Extract **stock-related tweets** from a dataset containing historical Twitter data.
 - ✅ Map **cashtags to stock symbols** to analyze tweet frequency.
